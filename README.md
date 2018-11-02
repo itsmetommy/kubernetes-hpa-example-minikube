@@ -1,0 +1,1 @@
+# kubernetes-hpa-example-minikube
